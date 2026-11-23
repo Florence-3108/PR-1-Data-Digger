@@ -1,4 +1,6 @@
 Video : https://drive.google.com/file/d/1fCnM1wIrpdygoPi_qyo5cIEG1ue96rHb/view?usp=drivesdk
+
+
 📌 Project Overview
 
 Data Digger is a practical SQL project based on an E-Commerce Store. The project provides hands-on experience in managing a MySQL database using CRUD operations, SQL clauses, operators, aggregate functions, primary keys, and foreign keys.
